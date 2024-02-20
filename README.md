@@ -10,4 +10,4 @@
 [Finetuning Model notebook](https://github.com/Utshav-paudel/Finetuning-Full-Cycle/blob/de18845caf32646c9987204d2ada39d507371018/Finetuning_Mistral7b.ipynb)
 
 ## Merging Model weights
-[](https://github.com/Utshav-paudel/Finetuning-Full-Cycle/blob/de18845caf32646c9987204d2ada39d507371018/Merging_model_weights.ipynb)
+[Merging Model weights](https://github.com/Utshav-paudel/Finetuning-Full-Cycle/blob/de18845caf32646c9987204d2ada39d507371018/Merging_model_weights.ipynb)
